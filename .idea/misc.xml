@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ksh04/AndroidStudioProjects/AlarmWithWidget/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/ksh04/AndroidStudioProjects/AlarmWithWidget/app/src/main/res/layout/activity_login.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/ksh04/AndroidStudioProjects/AlarmWithWidget/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ksh04/AndroidStudioProjects/AlarmWithWidget/app/src/main/res/layout/activity_setting.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/ksh04/AndroidStudioProjects/AlarmWithWidget/app/src/main/res/layout/alarm_recycler_view.xml" value="0.4" />
       </map>
     </option>
   </component>
