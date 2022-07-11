@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.android.alarmwithwidget.R
+import com.android.alarmwithwidget.dataclass.Alarm
 
 class AlarmReclcyerAdapter(private val context: Context):RecyclerView.Adapter<AlarmReclcyerAdapter.ViewHolder>() {
 

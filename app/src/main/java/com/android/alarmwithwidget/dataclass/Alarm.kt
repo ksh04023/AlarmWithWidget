@@ -1,4 +1,4 @@
-package com.android.alarmwithwidget.alarmRecycler
+package com.android.alarmwithwidget.dataclass
 
 import java.util.*
 
